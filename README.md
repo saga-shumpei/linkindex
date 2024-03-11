@@ -1,7 +1,7 @@
 # linkindex
 A macro that creates a link to any location on Excel and also creates a link on the log file.
 ## Preparing to use linkindex
-1. Create a new book in excel.
+1. Create a new book with excel.
 2. Save it as "C:\Users\XXXX\AppData\Roaming\Microsoft\Excel\XLSTART\PERSONAL.XLSB". (Change XXXX to match your username.)
 ![macrobook](macrobook.png)
 3. Download "linkindex.bas" to your PC.
