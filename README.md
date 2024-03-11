@@ -26,3 +26,5 @@ A macro that creates a link to any location on Excel and also creates a link on 
 ![inputindex2](inputindex2.png)
 12. The display returns to the CELL with heading in the Excel workbook managed by linkindex. At this time, this book has already been saved.
 ![return](return.png)
+13. Check history excel workbook.
+![historyworkbook2](historyworkbook2.png)
