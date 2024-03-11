@@ -35,3 +35,5 @@ We write down various things in EXCEL, but after a while, we sometimes forget wh
 ![blank2](blank2.png)
 ![blank3](blank3.png)
 ![blank4](blank4.png)
+NOTE.
+You cannot create a link to a character string that is invalid as an EXCEL link. For example, it starts with a number. Including "," etc.
