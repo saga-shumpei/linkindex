@@ -1,5 +1,7 @@
 # linkindex
 A macro that creates a link to any location on Excel and also creates a link on the log file.
+## What is this for?
+We write down various things in EXCEL, but after a while, we sometimes forget which EXCEL we wrote them down. If you manage your EXCEL memos with this macro, the date will also be saved at the same time, making it easier to remember in which EXCEL you took the memo.
 ## Preparing to use linkindex
 1. Create a new book with excel.
 2. Save it as "C:\Users\XXXX\AppData\Roaming\Microsoft\Excel\XLSTART\PERSONAL.XLSB". (Change XXXX to match your username.)
