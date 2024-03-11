@@ -30,3 +30,4 @@ We write down various things in EXCEL, but after a while, we sometimes forget wh
 ![return](return.png)
 13. Check history excel workbook.
 ![historyworkbook2](historyworkbook2.png)
+14. What happens if you select a blank CELL and press Ctrl+k?
