@@ -31,3 +31,7 @@ We write down various things in EXCEL, but after a while, we sometimes forget wh
 13. Check history excel workbook.
 ![historyworkbook2](historyworkbook2.png)
 14. What happens if you select a blank CELL and press Ctrl+k?
+![blank1](blank1.png)
+![blank2](blank2.png)
+![blank3](blank3.png)
+![blank4](blank4.png)
