@@ -11,7 +11,6 @@ We write down various things in EXCEL, but after a while, we sometimes forget wh
 ![import](import.png)
 5. Create an excel workbook for history and place it in any directory.
 ![logfilepath](logfilepath.png)
-
 6. The history excel workbook must have a sheet named "latest".
 ![historyworkbook](historyworkbook.png)
 7. A sheet called "settings" must exist in "PERSONAL.XLSB". A CELL with the name "LogFilePath" must exist in the "settings" sheet. Set the path of the excel workbook for history in the CELL with the name "LogFilePath".
