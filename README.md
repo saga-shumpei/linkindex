@@ -51,4 +51,5 @@ We write down various things in EXCEL, but after a while, we sometimes forget wh
 
 ### NOTE:
 - You cannot create a link to a character string that is invalid as an EXCEL link. For example, it starts with a number. Including "," etc.
+- Also, if the sheet name containing the string you want to link contains spaces, it will not work correctly.
 - The EXCEL workbook managed by linkindex cannot be placed in a hierarchy above the folder where the history Excel workbook is located.
