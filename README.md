@@ -6,7 +6,7 @@ We write down various things in EXCEL, but after a while, we sometimes forget wh
 1. Create a new book with excel.
 
 2. Save it as "C:\Users\XXXX\AppData\Roaming\Microsoft\Excel\XLSTART\PERSONAL.XLSB". (Change XXXX to match your username.)
-![macrobook](macrobook.png)
+![macrobook](./image/macrobook.png)
 
 3. Download "linkindex.bas" to your PC.
 
